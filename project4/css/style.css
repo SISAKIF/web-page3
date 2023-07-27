@@ -1,0 +1,172 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p,a,span,ul,ol{
+	padding: 0; 
+	margin: 0;
+
+}
+/*header css part start*/
+#header{
+	background-color:white ;
+	margin: 20px;
+}
+.collapse ul li a {
+	color: black;
+	text-transform: uppercase;
+	text-align: left;
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 800;
+	font-size: 18px;
+	margin: 0px 10px;
+}
+.collapse ul li a:hover{
+ color: #1abb9c;
+}
+#banner{
+	background-image: url(../picture/headerpic.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text_content{
+	text-align: center;
+	color: white;
+	margin: 250px;
+	
+}
+.text_content h3{
+   font-family: 'Roboto Slab', serif;
+   font-weight: 400;
+   font-size: 32px;
+}
+.text_content p{
+   font-family: 'Roboto Condensed', sans-serif;
+   font-weight: 400;
+   font-size: 28px;
+   margin: 40px;
+   color: #919293;
+}
+
+.text_content a{
+	border: 2px solid #3f8dbf;
+	padding: 10px 45px;
+	color: white;
+	text-transform: uppercase;
+	background-color: #3f8dbf;
+	font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+
+
+}
+/*header css part end*/
+/*idea part css start */
+.first{
+	text-align: center;
+	margin-top:62px ;
+}
+.first h4{
+	margin-top: 30px;
+	margin-bottom:20px ;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.first p{
+	color: #8f8f8f;
+}
+.border{
+	border: 1px solid black;
+	height: 1px;
+	width: 1300px ;
+	margin-bottom: 60px;
+	margin-top: 50px;
+}
+/*idea part css end */
+/*work part css start*/
+.text h4{
+ font-family: 'Roboto Condensed', sans-serif;
+ font-weight: 800;
+ font-size: 28px;
+}
+.sakif{
+	margin-bottom: 50px;
+}
+.sakif img{
+	margin-top:25px ;
+	margin-bottom: 25px;
+}
+.sakif h3{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-bottom: 10px;
+}
+.sakif h6{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-bottom: 5px;
+	color: #8f8f8f;
+}
+#headphon{
+	background-color: #efefef;
+	text-align: center;
+
+}
+.maisha img{
+	margin-top: 52px;
+	margin-bottom: 35px;
+}
+.maisha h3{
+	font-family: 'Roboto Slab', serif;
+	color: #acacac;
+	margin-bottom: 58px;
+	font-size: 25px;
+}
+footer{
+	background-color: black;
+}
+.text_content4 h3{
+	color: white;
+	margin-top: 45px;
+	margin-bottom: 22px;
+}
+.text_content4 p{
+	color: white;
+	margin-bottom: 20px;
+}
+.logo ul li a i{
+	margin-top: 32px;
+}
+.comment p{
+	color: white;
+	margin: 15px;
+	margin-right: 15px;
+}
+.logo1 ul li a i{
+	margin-top: 60px;
+}
+.text_content5{
+	color: white;
+	margin-top: 45px;
+}
+.text_content5 p{
+	margin-top: 20px;
+}
+.text_content6{
+	color: white;
+	margin-top: 45px;
+}
+.text_content6 p{
+	margin-top: 30px;
+}
+.content7{
+	color: white;
+	font-size: 20px;
+}
+/*work part css end*/
+/*font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;*/
